@@ -149,7 +149,7 @@ header a:hover {
 
 /* RECEPIES PAGE ------------------------------------------- */
 
-#recepies {
+#recipes {
     border-top: darkgray 3px ridge;
     border-bottom: darkgray 3px ridge;
     min-height: 500px;
@@ -158,7 +158,7 @@ header a:hover {
     padding-bottom: 50px;
 }
 
-#recepiesTitle {
+#recipesTitle {
     font-family: 'Sofia';
     text-align: center;
     color: brown;
@@ -174,7 +174,7 @@ header a:hover {
 #grannyCaldron {
     display: inline;
 }
-#recepies p{
+#recipes p{
     text-align: center;
 }
 #caldron {
