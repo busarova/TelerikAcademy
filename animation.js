@@ -8,7 +8,7 @@ $(document).ready(function () {
 
         e.preventDefault();
     });
-    $("#recepies").mouseenter(function () {
+    $("#recipes").mouseenter(function () {
 
         if ($(window).width() > 768) {
             $("#tomato").animate({
